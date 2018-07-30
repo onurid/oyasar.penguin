@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  oyasar.penguin.api:
+    image: oyasar.penguin.api
+    build:
+      context: .
+      dockerfile: OYASAR.Penguin.Api/Dockerfile
+
+  oyasar.penguin.admin:
+    image: oyasar.penguin.admin
+    build:
+      context: ./OYASAR.Penguin.Admin
+      dockerfile: Dockerfile

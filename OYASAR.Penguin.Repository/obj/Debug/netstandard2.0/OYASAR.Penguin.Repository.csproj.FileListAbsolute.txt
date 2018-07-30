@@ -1,0 +1,10 @@
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\bin\Debug\netstandard2.0\OYASAR.Penguin.Repository.deps.json
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\bin\Debug\netstandard2.0\OYASAR.Penguin.Repository.dll
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\bin\Debug\netstandard2.0\OYASAR.Penguin.Core.dll
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\bin\Debug\netstandard2.0\OYASAR.Penguin.Repository.Core.dll
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\bin\Debug\netstandard2.0\OYASAR.Penguin.Repository.Core.pdb
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\bin\Debug\netstandard2.0\OYASAR.Penguin.Core.pdb
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\obj\Debug\netstandard2.0\OYASAR.Penguin.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\obj\Debug\netstandard2.0\OYASAR.Penguin.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\obj\Debug\netstandard2.0\OYASAR.Penguin.Repository.AssemblyInfoInputs.cache
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Repository\obj\Debug\netstandard2.0\OYASAR.Penguin.Repository.AssemblyInfo.cs

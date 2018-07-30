@@ -1,0 +1,16 @@
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\bin\Debug\netstandard1.3\OYASAR.Penguin.Core.deps.json
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\bin\Debug\netstandard1.3\OYASAR.Penguin.Core.dll
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\bin\Debug\netstandard1.3\OYASAR.Penguin.Core.pdb
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.csproj.CoreCompileInputs.cache
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.AssemblyInfoInputs.cache
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.AssemblyInfo.cs
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.dll
+C:\workgit\oyasar.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.pdb
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\bin\Debug\netstandard1.3\OYASAR.Penguin.Core.deps.json
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\bin\Debug\netstandard1.3\OYASAR.Penguin.Core.dll
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\bin\Debug\netstandard1.3\OYASAR.Penguin.Core.pdb
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.csproj.CoreCompileInputs.cache
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.AssemblyInfoInputs.cache
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.AssemblyInfo.cs
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.dll
+C:\Projects\OYASAR.penguin\OYASAR.Penguin.Core\obj\Debug\netstandard1.3\OYASAR.Penguin.Core.pdb

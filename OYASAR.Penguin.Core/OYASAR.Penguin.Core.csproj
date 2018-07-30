@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Service\ExcelService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OYASAR.Framework.Core" Version="1.0.5" />
+  </ItemGroup>
+
+</Project>
